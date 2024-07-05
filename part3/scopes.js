@@ -73,9 +73,6 @@ const addtwo=function(num)
 {
     return num+2
 }
-   //variable ki trah 
-
-
-   
+   //variable ki trah
 
 

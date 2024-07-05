@@ -91,7 +91,7 @@ function returnvalue(getarray)
 
 
 
-//send array
+//send array proper
 returnvalue([100,200,300])
 
 
