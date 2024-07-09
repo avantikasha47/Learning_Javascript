@@ -44,11 +44,11 @@ const chai=()=>{      //arrow function
 
 
 // const addtwo=(n1,n2)=>{
-//     return n1+n2
+//     return n1+n2      //under scope 
 // }
 // console.log(addtwo(3,4))
 
-//const addtwo=(n1,n2)=> n1+n2    //implicit return 
+//const addtwo=(n1,n2)=> n1+n2    //implicit return    //without scoope
 // const addtwo=(n1,n2)=> (n1+n2)    //another way
 // const addtwo=(n1,n2)=> {usrname:"avni"}   //undefined
 const addtwo=(n1,n2)=> ({username:"avni"})
